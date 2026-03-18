@@ -1,2 +1,23 @@
-# essam-physics-platform
-Physics learning platform for UAE students
+# Essam Physics Platform Mockup
+
+مشروع Next.js + Tailwind CSS جاهز للرفع على Vercel كنموذج أولي لمنصة تعليمية.
+
+## التشغيل محليًا
+
+```bash
+npm install
+npm run dev
+```
+
+## الرفع على Vercel
+
+1. ادخل إلى Vercel.
+2. اختر **New Project**.
+3. اختر **Upload** أو ارفع مجلد المشروع بالكامل.
+4. اترك الإعدادات الافتراضية.
+5. اضغط **Deploy**.
+
+## ملاحظات
+
+- هذا المشروع عبارة عن واجهة أولية قابلة للتطوير.
+- يمكنك لاحقًا إضافة تسجيل دخول، قاعدة بيانات، ولوحة تحكم.
