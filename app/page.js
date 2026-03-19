@@ -1,11 +1,15 @@
-export default function Page() {
-  return (
-    <main style={{padding: "40px", fontFamily: "Arial", direction: "rtl"}}>
-      <h1>منصة عصام للفيزياء</h1>
-      <p>2026المنهج الإماراتي</p>
-      <p>ESSAM PHYSICS ACADEMY</p>
-      <p>UAE Physics Learning Platform</p>
-    </main>
-  );
+{
+  "name": "essam-physics-platform",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
 }
-// update
